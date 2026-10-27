@@ -22,7 +22,7 @@ classe:      Desenvolvedor de Software
 guilda:      Aedria Digital
 treinando:   Computação @ Unifor
 main quest:  sistemas sob medida, automação e agentes de IA
-side quest:  game dev no Roblox
+side quest:  game dev (Godot, HTML5 e Roblox)
 ```
 
 Gosto de pegar processo feito na mão e transformar em software: painéis de gestão, integrações entre sistemas e agentes de IA que rodam no dia a dia de uma operação. Nas horas vagas, a lógica é a mesma, só que o cliente é o jogador.
@@ -35,9 +35,11 @@ Gosto de pegar processo feito na mão e transformar em software: painéis de ges
 
 **Game dev & ferramentas**
 
-<img src="https://skillicons.dev/icons?i=lua,git,github,vscode&theme=dark" alt="Lua, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=godot,lua,git,github,vscode&theme=dark" alt="Godot, Lua, Git, GitHub, VS Code" />
 
 ## ▸ Quest log
+
+### Main quests
 
 | Quest | O que faz | Stack | Status |
 |:--|:--|:--|:--|
@@ -45,9 +47,20 @@ Gosto de pegar processo feito na mão e transformar em software: painéis de ges
 | **CRM + robô de agendamento** | Ponte entre o robô que agenda consultas e o CRM interno | Python | ![](https://img.shields.io/badge/em%20andamento-a78bfa?style=flat-square) |
 | **Agentes de IA** | Agentes que automatizam atendimento e tarefas operacionais | Python | ![](https://img.shields.io/badge/em%20andamento-a78bfa?style=flat-square) |
 | **Mollire** | Plataforma de deploy gamificada (party member) | Web | ![](https://img.shields.io/badge/co--op-06b6d4?style=flat-square) |
-| **Side quest** | Experimentos e protótipos no Roblox | Lua | ![](https://img.shields.io/badge/explorando-22c55e?style=flat-square) |
 
 <sub>Quests de clientes ficam em repositórios privados.</sub>
+
+### Side quests
+
+<p align="center">
+  <a href="https://maicaobonito.github.io/funcao-quest/"><img src="https://raw.githubusercontent.com/maicaobonito/funcao-quest/main/screenshots/capa.png" width="85%" alt="Função Quest" /></a>
+</p>
+
+**[⚔️ Função Quest](https://github.com/maicaobonito/funcao-quest)** · RPG educativo em pixel art pra aprender funções matemáticas, direto no navegador.<br/>
+<a href="https://maicaobonito.github.io/funcao-quest/"><img src="https://img.shields.io/badge/%E2%96%B6%20JOGAR%20AGORA-f0c840?style=for-the-badge&labelColor=0a122a" alt="Jogar agora" /></a>
+
+- **[🎮 Plataforma 2D em Godot](https://github.com/maicaobonito/trabalho-av2)** · jogo de plataforma com inimigos, lava e pontuação (Godot 4 / GDScript)
+- **Roblox** · experimentos e protótipos em Lua
 
 ## ▸ XP
 
